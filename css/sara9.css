@@ -1,0 +1,59 @@
+p {
+    color:black;
+}
+address{
+	color: black;
+}
+#cabecera{   
+	position: absolute;
+    top: 2%;
+    left: 2%;
+    height: 10%;
+    width: 93%;
+    position: absolute;
+font-size: 34px;
+line-height: 0.1;
+letter-spacing: 0.082em;
+font-weight: 300;
+font-style: italic;
+}
+#indice{
+	position: absolute;
+	top:13%;
+	left:2%;
+	width:25%;
+	height: 75%;
+	font-size: 21px;
+line-height: 1.9;
+letter-spacing: 0.039em;
+font-style: italic;
+}
+#contenido{
+	position: absolute;
+	top:13%;
+	left:30%;
+	width: 65%;
+	height:75%;
+	ont-size: 19px;
+line-height: 1.1;
+letter-spacing: 0.208em;
+font-weight: 500;
+font-style: italic;
+}
+#piedepagina{
+	position: absolute;
+	top:89%;
+	left:30%;
+	height: 10%;
+	width: 65%;
+	font-size: 23px;
+line-height: 2;
+letter-spacing: 0.065em;
+font-weight: 500;
+}
+.b{
+    background-color: blanchedalmond;
+}
+.a{
+    background-color: pink;
+}
